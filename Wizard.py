@@ -1,4 +1,4 @@
-mytitle = "Made by Lethh#0001 | @kaanxsrd"
+mytitle = "Made by horsewithnoname#6743 | @onurrzy"
 from os import system
 system("title "+mytitle)
 import psutil
